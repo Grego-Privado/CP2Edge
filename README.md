@@ -19,7 +19,7 @@ Este projeto é um sistema completo de **monitoramento ambiental inteligente** v
 
 ## 📦 Componentes usados
 
-- Arduino (UNO, Nano ou compatível)
+- Arduino UNO
 - Módulo **DHT22** (temperatura/umidade)
 - **LDR** + resistor (luminosidade)
 - Módulo **RTC DS3231**
@@ -87,9 +87,9 @@ Este projeto é um sistema completo de **monitoramento ambiental inteligente** v
 ---
 
 
-## 👨‍💻 Autor
+## 👨‍💻 Autores
 
-**Nome:** Pedro Henrique Silva GregoliniVictor Simões Altieri, Rafael Falaguasta Ferraz   
+**Nome:** Pedro Henrique Silva Gregolini, Victor Simões Altieri e Rafael Falaguasta Ferraz   
 **Projeto acadêmico para:** FIAP
 
 ---
