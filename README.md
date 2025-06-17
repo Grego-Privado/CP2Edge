@@ -1,10 +1,10 @@
-#Vinheria Data Logger
+# Vinheria Data Logger
 
 Este projeto é um sistema completo de **monitoramento ambiental inteligente** voltado para vinherias. Ele utiliza sensores para capturar informações de temperatura, umidade e luminosidade, registra eventos críticos na EEPROM e permite controle via cartão RFID e teclado numérico.
 
 ---
 
-##Funcionalidades
+## Funcionalidades
 
 - Interface em LCD I2C 16x2 com animações e menus
 - Leitura de **temperatura e umidade** com sensor DHT22
@@ -17,7 +17,7 @@ Este projeto é um sistema completo de **monitoramento ambiental inteligente** v
 
 ---
 
-##Componentes usados
+## Componentes usados
 
 - Arduino UNO
 - Módulo **DHT22** (temperatura/umidade)
@@ -31,7 +31,7 @@ Este projeto é um sistema completo de **monitoramento ambiental inteligente** v
 
 ---
 
-##Como funciona
+## Como funciona
 
 1. Ao iniciar, o sistema mostra logs armazenados na EEPROM.
 2. Exibe o menu após autenticação via cartão RFID autorizado.
@@ -47,7 +47,7 @@ Este projeto é um sistema completo de **monitoramento ambiental inteligente** v
 
 ---
 
-##Interface no LCD
+## Interface no LCD
 
 - Menu principal:
 1:Tmax 2:Umax
@@ -59,7 +59,7 @@ Este projeto é um sistema completo de **monitoramento ambiental inteligente** v
 
 ---
 
-##Organização do código
+## Organização do código
 
 - Funções separadas para:
 - Leitura de sensores
@@ -78,7 +78,7 @@ Este projeto é um sistema completo de **monitoramento ambiental inteligente** v
 
 ---
 
-##Testes e ajustes
+## Testes e ajustes
 
 - Use o botão '8' no teclado para mostrar os logs
 - Use '7' para apagar a EEPROM
@@ -87,7 +87,7 @@ Este projeto é um sistema completo de **monitoramento ambiental inteligente** v
 ---
 
 
-##Autores
+## utores
 
 **Nome:** Pedro Henrique Silva Gregolini, Victor Simões Altieri e Rafael Falaguasta Ferraz   
 **Projeto acadêmico para:** FIAP
